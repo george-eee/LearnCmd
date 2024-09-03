@@ -1,0 +1,2 @@
+# LearnCmd
+informations for cmd
